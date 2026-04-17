@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Mern Stack Developer
 - 💞️ I’m looking to collaborate on Full Stack Developer
-- 📫 How to reach me tommsanjay@zohomail.in
+- 📫 How to reach me sanjayb32003@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
