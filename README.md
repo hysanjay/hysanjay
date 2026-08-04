@@ -14,7 +14,7 @@ Passionate about building scalable web applications, REST APIs, and AI-powered s
 </a>
 
 <a href="mailto:sanjayb232003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-sanjayb232003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hysanjay">
