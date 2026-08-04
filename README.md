@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Sanjay_B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:sanjayb232003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="mailto:sanjayb232003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sanjayb232003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
