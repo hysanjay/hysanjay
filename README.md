@@ -2,11 +2,12 @@
 <h3 align="center">Full Stack Developer | AI Enthusiast | Java & Spring Boot Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-b-30595a237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/sanjay-b-30595a237/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjay_B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:sanjayb232003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
