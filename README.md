@@ -1,78 +1,108 @@
-Hi 👋, I'm Sanjay B
+<h1 align="center">Hi 👋, I'm Sanjay B</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Java & Spring Boot Developer</h3>
 
-Full Stack Developer | AI Enthusiast | Java & Spring Boot Developer
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjay-b-30595a237/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sanjayb232003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I'm a Software Developer Intern passionate about building scalable web applications and continuously learning new technologies.
+---
 
-About Me
+## 🚀 About Me
 
-• 💻 Software Developer Intern at Inflexion Technologies Pvt. Ltd.
-• 🚀 Interested in Full Stack Development and Artificial Intelligence
-• 🌱 Currently learning MERN Stack and AI
-• 🔥 Strong in Java, Spring Boot, React.js, JavaScript, MySQL, and REST APIs
-• 💡 Love solving real-world problems through software
-• 🎯 Looking for Full Stack Developer and AI Developer opportunities
+- 💻 Software Developer Intern at **Inflexion Technologies Pvt. Ltd.**
+- 🌱 Currently learning **MERN Stack** and **Artificial Intelligence**
+- 🔥 Passionate about **Full Stack Development**, **Java**, **Spring Boot**, and **AI**
+- 💡 Love building scalable web applications and solving real-world problems
+- 🎯 Looking for **Full Stack Developer** and **AI Developer** opportunities
 
-Tech Stack
+---
 
-Programming Languages
-• Java
-• JavaScript
-• SQL
-• Python
+## 🛠️ Tech Stack
 
-Frontend
-• HTML5
-• CSS3
-• React.js
-• Tailwind CSS
-• SAP UI5
+### 💻 Languages
+- Java
+- JavaScript
+- SQL
+- Python
 
-Backend
-• Spring Boot
-• Node.js
-• Express.js
-• REST APIs
+### 🎨 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- SAP UI5
 
-Database
-• MySQL
-• MongoDB
+### ⚙️ Backend
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
 
-Tools
-• Git
-• GitHub
-• Postman
-• VS Code
-• IntelliJ IDEA
-• Eclipse
+### 🗄️ Database
+- MySQL
+- MongoDB
 
-Featured Projects
+### 🧰 Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- IntelliJ IDEA
+- Eclipse
 
-Employee Management System (Horizon HR)
-• Built using Java, Spring Boot, SAP UI5, MySQL, REST APIs
-• Implemented complete CRUD operations
-• Integrated frontend with backend using REST APIs
-• Used JPA, Hibernate, Git, and Postman
+---
 
-Greenden - Plant Store
-• Responsive e-commerce website
-• Built with HTML, CSS, JavaScript, and Tailwind CSS
-• Implemented product search and responsive design
+## 🚀 Featured Projects
 
-Currently Learning
+### 👨‍💼 Horizon HR - Employee Management System
+> Java | Spring Boot | SAP UI5 | MySQL
 
-• MERN Stack
-• Artificial Intelligence
-• Data Structures & Algorithms
-• System Design
+✔ Employee Management System with CRUD Operations
 
-Career Goal
+✔ REST API Integration
 
-To become a highly skilled Full Stack Developer and AI Developer by building scalable, high-performance applications that solve real-world problems.
+✔ Responsive SAP UI5 Frontend
 
-Connect With Me
+✔ JPA & Hibernate
 
-📧 Email: sanjayb232003@gmail.com
+---
+
+### 🌿 Greenden - Plant Store
+
+> HTML | CSS | JavaScript | Tailwind CSS
+
+✔ Responsive E-Commerce UI
+
+✔ Product Search
+
+✔ Mobile Friendly Design
+
+---
+
+## 📈 Currently Learning
+
+- MERN Stack
+- Artificial Intelligence
+- Data Structures & Algorithms
+- System Design
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled **Full Stack Developer** and **AI Engineer**, building scalable applications that create real-world impact.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **sanjayb232003@gmail.com**
 
 💼 LinkedIn:
 https://www.linkedin.com/in/sanjay-b-30595a237/
@@ -80,4 +110,6 @@ https://www.linkedin.com/in/sanjay-b-30595a237/
 💻 GitHub:
 https://github.com/hysanjay
 
-"Code. Learn. Build. Repeat."
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
